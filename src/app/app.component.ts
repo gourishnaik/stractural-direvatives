@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'stractural-direvatives';
+  show:boolean=false;
+  Fruits = ['Banana','Apple','Pineapple'];
+  status = 'error'
+  
 }
